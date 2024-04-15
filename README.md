@@ -1,0 +1,2 @@
+In this Repo, we’ll construct a neural network to categorize customers as either buyers or non-buyers. Our dataset comprises information from 5000 customers, including details such as gender, age, income, province, and their purchase history.
+Subsequently, we’ll apply the trained model to classify 2500 new customers as potential buyers or non-buyers. This strategic approach aims to optimize our marketing budget by precisely targeting the right audience. 🚀
